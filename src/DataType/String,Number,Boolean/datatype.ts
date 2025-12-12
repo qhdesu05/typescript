@@ -1,3 +1,6 @@
+export{};
+
+
 let username: string = "qh"; //string
 username.toLowerCase();
 //error

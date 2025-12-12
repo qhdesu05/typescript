@@ -1,3 +1,4 @@
+export{};
 let age = 25;
 //error
 //age = "qhdesu";
