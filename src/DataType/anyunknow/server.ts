@@ -1,8 +1,6 @@
 export{};
 
-function test(name:){
 
-}
 //any
 let name: any = "qh";
 
