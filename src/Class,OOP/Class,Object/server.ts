@@ -1,12 +1,12 @@
-export{};
+export { };
 //class : dinh nghia tong quat, mieu ta chung chung
-class Lion{
+class Lion {
     //mieu ta dac diem
-    name :string="A";
-    color : string | undefined;
+    name: string = "A";
+    color: string | undefined;
 
     //mieu ta hanh vi
-    sleep(){
+    sleep() {
         console.log("Lion is sleeping", this.name);
     }
 }

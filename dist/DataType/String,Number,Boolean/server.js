@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let username = "qh"; //string
 username.toLowerCase();
 //error
@@ -8,4 +10,3 @@ const isBad = true; //boolean
 let username1 = "qh"; //string
 const age2 = 36; //number
 const isBad1 = true; //boolean
-export {};

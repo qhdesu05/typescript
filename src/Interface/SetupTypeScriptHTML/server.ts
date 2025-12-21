@@ -1,4 +1,4 @@
-export{};
+export { };
 
-const name ="qh";
+const name = "qh";
 console.log(`Hello ${name}`);

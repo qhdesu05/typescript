@@ -1,4 +1,4 @@
-export{};
+export { };
 
 
 //any
@@ -9,6 +9,6 @@ name.toLowerCase(); //goi y method string
 
 //unknow
 let name2: unknown = "qh";
-if(typeof(name2)=="string"){
-    name2.toLowerCase(); 
+if (typeof (name2) == "string") {
+    name2.toLowerCase();
 }

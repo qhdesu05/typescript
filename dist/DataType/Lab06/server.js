@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const course1 = {
     courseld: 1,
     title: "TypeScript Basics",
@@ -44,4 +46,3 @@ registerStudentToCourse(student2, course1);
 printCourseInfo(course1);
 console.log("---------------");
 printCourseInfo(course2);
-export {};

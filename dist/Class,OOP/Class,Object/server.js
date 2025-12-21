@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //class : dinh nghia tong quat, mieu ta chung chung
 class Lion {
     constructor() {
@@ -20,4 +22,3 @@ const sutu2 = new Lion();
 sutu1.color = "black";
 sutu1.name = "thanhhoa";
 sutu1.sleep();
-export {};

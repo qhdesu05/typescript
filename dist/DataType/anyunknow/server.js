@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //any
 let name = "qh";
 let name1 = "qh";
@@ -7,4 +9,3 @@ let name2 = "qh";
 if (typeof (name2) == "string") {
     name2.toLowerCase();
 }
-export {};
