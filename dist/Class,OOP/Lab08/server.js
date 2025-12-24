@@ -44,7 +44,9 @@ class Student extends User {
 }
 const qh = new Student("qh", "quang@gmail.com");
 qh.enroll("ts");
+qh.enroll("nodejs");
 const th = new Teacher("thanhhoa", "thanhhoaquetoi@gmail.com", "teacher");
 th.addCourse("react native");
+th.addCourse("javascript");
 qh.printUserInfo();
 th.printUserInfo();
