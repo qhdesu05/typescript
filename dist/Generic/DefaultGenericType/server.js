@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+function printValue(value) {
+    return value;
+}
+const a = printValue("abc");
+const b = {
+    data: 123
+};
+const c = {
+    data: true
+};
