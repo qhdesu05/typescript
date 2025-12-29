@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 //union type
 let username = "qh"; //name
 username = 123456; //id
@@ -10,3 +8,4 @@ const printUsername = (username) => {
     }
 };
 printUsername("qh36");
+export {};

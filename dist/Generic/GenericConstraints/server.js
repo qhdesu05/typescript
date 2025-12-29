@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 function logLength(value) {
     console.log(value.length);
 }
@@ -35,4 +33,5 @@ function getProperty(obj, key) {
 }
 const user = { name: "qh", age: 36 };
 getProperty(user, "name");
+export {};
 // getProperty(user, "email")

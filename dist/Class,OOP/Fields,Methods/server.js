@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 //xay dung chung chung(tong quat)
 class SinhVien {
     //hanh vi
@@ -18,3 +16,4 @@ const sinhvien2 = new SinhVien();
 sinhvien1.name = "thanh hoa";
 sinhvien1.id = 3;
 sinhvien1.sleep();
+export {};

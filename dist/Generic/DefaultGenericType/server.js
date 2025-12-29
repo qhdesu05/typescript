@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 function printValue(value) {
     return value;
 }
@@ -10,3 +8,4 @@ const b = {
 const c = {
     data: true
 };
+export {};

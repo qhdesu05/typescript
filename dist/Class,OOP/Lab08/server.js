@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 class User {
     constructor(name, email, role) {
         this.name = name;
@@ -50,3 +48,4 @@ th.addCourse("react native");
 th.addCourse("javascript");
 qh.printUserInfo();
 th.printUserInfo();
+export {};

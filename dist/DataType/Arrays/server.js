@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 //option 1 : array literal
 const name = ["qh", "desu"];
 const scores = [10, 4, 8];
@@ -8,3 +6,4 @@ const name2 = ["qh", "desu"];
 const scores2 = [10, 4, 8];
 console.log("name : ", name);
 console.log("score : ", scores);
+export {};

@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 const a = { data: "qh" };
 const b = { data: 123 };
 const fetchUser = async () => {
@@ -10,3 +8,4 @@ const fetchUser = async () => {
         data: dataAPI
     };
 };
+export {};
